@@ -1,7 +1,7 @@
 import org.quartz.*;
 import org.quartz.impl.StdSchedulerFactory;
-import utils.FenwickChecker;
-import utils.HarrodsChecker;
+import utils.scheduler.FenwickChecker;
+import utils.scheduler.HarrodsChecker;
 
 import java.util.Date;
 

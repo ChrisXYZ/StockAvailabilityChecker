@@ -1,9 +1,10 @@
-package utils;
+package utils.scheduler;
 
 import org.quartz.Job;
 import org.quartz.JobExecutionContext;
 import org.quartz.JobExecutionException;
 import retailers.fenwick.Fenwick;
+import utils.SendEmail;
 
 import javax.mail.Session;
 
