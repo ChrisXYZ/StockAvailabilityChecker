@@ -3,7 +3,9 @@ Silly Project to check availability of an item at certain retailers - using this
 
 Currently "Supports" Harrods and Fenwicks -
 
-# To Run
+# Running
+
+Uses Selenium to webscrape which is then processed with a Java backend.
 
 Main function can be found in 'Stock Availability Checker', some basic fuctionality has been commented out, but the jist is that it creates two schedule checkeres one for Fenwicks and one for Harrods.
 
